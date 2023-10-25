@@ -4,3 +4,5 @@ my resolusi
 -kaya
 -bahagia
 -sehat
+
+saya ingin jadi front end dan backend
